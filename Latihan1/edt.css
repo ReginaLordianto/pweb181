@@ -7,20 +7,29 @@ h1
  {
    font-family: cursive;
    color: #FFDF00;
-   text-align: left;
+
  }
  h3
  {
    font-family: cursive;
    color: #CFB53B;
-   text-align: left;
+
  }
- h4
- {
-   text-align:left;
- }
+
 body
 {
-text-align:center;
+
 background-color: #bae1ff;
+}
+.sidemenu
+{
+  position: relative;
+  width: 25%;
+  float: left;
+}
+.tulisan
+{
+  position:relative;
+  width: 70%;
+  float: right;
 }
