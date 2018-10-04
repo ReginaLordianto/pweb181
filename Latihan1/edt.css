@@ -13,20 +13,20 @@ h1
  {
    font-family: cursive;
    color: #CFB53B;
-
  }
 
 body
 {
-
 background-color: #bae1ff;
 }
+
 .sidemenu
 {
   position: relative;
   width: 25%;
   float: left;
 }
+
 .tulisan
 {
   position:relative;

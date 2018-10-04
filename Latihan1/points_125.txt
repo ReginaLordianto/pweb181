@@ -1,0 +1,7 @@
++ 20 bonus tugas yang selesai sesuai order minimal
++ 25 untuk penggunaan style dengan css
++ 5 (x 15) untuk setiap penggunaan gambar yang relevan
+- 5 (x 1) untuk setiap penggunaan gambar yang tidak relevan
++ 10 untuk tersedianya tombol back (ke index)
+
+Total: 125 points
